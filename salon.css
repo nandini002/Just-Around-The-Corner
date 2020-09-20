@@ -1,0 +1,36 @@
+body {
+  background-color: bisque;
+}
+
+.content {
+ padding-left: 75px;
+ padding-right: 75px;
+ font-size: 21px;
+}
+.headers {
+  font-size: 24px;
+  font-family:cursive;
+  color:darkblue;
+  outline-color:black;
+}
+button {
+  block-size: 30px;
+  font-size:17px;
+}
+img {
+height: 200px;
+width: 200px;
+object-fit: cover;
+border-radius: 200px;
+border: dotted;
+border-color: white;
+border-width: 5px;
+margin: 10px;
+padding: 2px;
+}
+h1 {
+  font-size: 34px;
+  font-family:cursive;
+  color:cornflowerblue;
+  outline-color:black;
+}
